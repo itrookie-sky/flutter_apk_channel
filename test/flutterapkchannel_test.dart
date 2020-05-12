@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutterapkchannel/flutterapkchannel.dart';
+import 'package:flutter_apk_channel/flutter_apk_channel.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('flutterapkchannel');

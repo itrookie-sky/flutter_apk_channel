@@ -1,4 +1,4 @@
-name: flutterapkchannel
+name: flutter_apk_channel
 description: 获取apk中渠道信息的插件，ios默认为App Store
 version: 0.0.1
 author:
