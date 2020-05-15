@@ -3,7 +3,7 @@
 # Run `pod lib lint flutterapkchannel.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutterapkchannel'
+  s.name             = 'flutter_apk_channel'
   s.version          = '0.0.1'
   s.summary          = '获取apk中渠道信息的插件，ios默认为App Store'
   s.description      = <<-DESC

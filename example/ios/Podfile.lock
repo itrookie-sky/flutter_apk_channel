@@ -1,21 +1,21 @@
 PODS:
   - Flutter (1.0.0)
-  - flutterapkchannel (0.0.1):
+  - flutter_apk_channel (0.0.1):
     - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - flutterapkchannel (from `.symlinks/plugins/flutterapkchannel/ios`)
+  - flutter_apk_channel (from `.symlinks/plugins/flutter_apk_channel/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
-  flutterapkchannel:
-    :path: ".symlinks/plugins/flutterapkchannel/ios"
+  flutter_apk_channel:
+    :path: ".symlinks/plugins/flutter_apk_channel/ios"
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  flutterapkchannel: 284648a9b785959c2e8c05c8dbde2c5857dbf1db
+  flutter_apk_channel: 2cd68d17b23efec625679dbe2e6647eca2bbe037
 
 PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
 
